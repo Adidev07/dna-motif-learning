@@ -1,0 +1,25 @@
+{
+  "project": "Synthetic DNA Motif Classifier",
+  "ml_metrics": {
+    "accuracy": 0.7366666666666667,
+    "precision": 0.7697368421052632,
+    "recall": 0.7267080745341615,
+    "f1": 0.7476038338658146,
+    "tp": 117,
+    "fp": 35,
+    "fn": 44,
+    "tn": 104
+  },
+  "exact_tag_baseline": {
+    "accuracy": 0.99,
+    "precision": 0.9817073170731707,
+    "recall": 1.0,
+    "f1": 0.9907692307692307,
+    "tp": 161,
+    "fp": 3,
+    "fn": 0,
+    "tn": 136
+  },
+  "tag": "ACGTAC",
+  "scope": "Artificial sequence classification; no functional genomic inference"
+}
